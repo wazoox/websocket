@@ -22,6 +22,6 @@ func main () {
 	}
 	fmt.Printf("Received: %s.\n", msg[:n])
 	
-	_, err := ws.Close()
+	err = ws.Close()
 }
 

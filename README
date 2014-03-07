@@ -1,3 +1,8 @@
+A basic websocket server and client in Go, and a javascript client graphing with smoothie.js.
+Used to get a basic understanding of Go and websockets.
+
+Changes:
+
 * Updated go code to run with go 1.2
 * Added a very basic go client
 * updated smoothie.js
